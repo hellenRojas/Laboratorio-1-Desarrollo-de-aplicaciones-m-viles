@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Laboratorio1</string>
+    <string name="title_activity_listview_layout">listview_layout</string>
+</resources>
